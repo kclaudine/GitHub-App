@@ -76,3 +76,15 @@ No known bugs at the moment.
 * Bootstrap
 * Angular CLI
 * Type Script
+
+## Support and Contact
+
+For any question, comment or suggestion please reach out to me on this email: claudinekuradusenge2@gmail.com
+
+- github-username: kclaudine
+
+## License
+
+This project is licensed under the MIT License 
+
+Copyright (c) 2020
