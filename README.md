@@ -6,6 +6,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 [claudine kuradusenge](https://github.com/kclaudine/GitHub-Search-App.git)
 
+## Description
+This is a **GithubSearch** application that searches for user and displays their profile info using the ***Github API.***
+
+This is a website where users may enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories.
+
+GitHub API was used to retrieve this information. This API allows **5,000** requests per hour with an API key, but only 60 requests per hour _without_ one.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
