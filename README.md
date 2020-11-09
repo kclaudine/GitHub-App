@@ -22,6 +22,24 @@ GitHub API was used to retrieve this information. This API allows **5,000** requ
 
 - Users can make up to 5000 requests per hour due to Github-API integration.
 
+# Prerequisites
+
+To work with GithubSearch you need to have some few prerequisites.
+
+This include the following mentioned below.
+
+
+* Node.js
+
+* Angular-JS framework
+
+* Typescript
+
+* Terminal
+
+If you dont have this requirements you could use the link above to help with the installation guide.
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
