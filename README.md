@@ -67,3 +67,12 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Known Bugs
 
 No known bugs at the moment.
+
+## Technologies used
+
+* HTM
+* CSS
+* Angular
+* Bootstrap
+* Angular CLI
+* Type Script
