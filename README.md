@@ -70,7 +70,7 @@ No known bugs at the moment.
 
 ## Technologies used
 
-* HTM
+* HTML
 * CSS
 * Angular
 * Bootstrap
